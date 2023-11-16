@@ -19,10 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a dedicated Ph.D. student at Stony Brook University, under the supervision of Prof. Susu Xu (http://susu-xu.com). My academic journey began with a Bachelor of Computer Science from Xi'an Jiaotong University, followed by a Master of Computer Science from Stevens Institute of Technology, leading me to the exciting and challenging world of doctoral research.
-
-At Stony Brook, my focus is on harnessing the potential of large language models in the realm of disaster response. Driven by a passion to integrate advanced AI technologies with humanitarian efforts, my research aims not just to push academic boundaries but to create impactful solutions for real-world crisis management. By exploring this innovative intersection, I seek to contribute to a future where technology significantly enhances our ability to respond to and recover from disasters.
-
-My academic pathway in the field of large language models commenced with my undergraduate studies in Computer Science at Xi'an Jiaotong University, where I graduated in 2020. I further honed my expertise with advanced research at Stevens Institute of Technology, culminating in 2023. These educational milestones provided me with a robust foundation and critical insights, essential for my ongoing research in the field of large language models..
-
-Welcome to my professional space, where you can learn more about my work and connect with me.
+Hello! I'm a Ph.D. student at Stony Brook University, where I am privileged to work under the guidance of Prof. Susu Xu. My academic journey in computer science began at Xi'an Jiaotong University, leading to a Master's from Stevens Institute of Technology. Currently, my research is centered on leveraging large language models for disaster response, blending AI innovation with humanitarian goals. This work is an extension of my comprehensive academic background, which began in 2020 with my undergraduate studies. My goal is to contribute to more effective crisis management through technology. This professional space serves as a platform to share my research progress and establish meaningful collaborations.
