@@ -14,7 +14,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-**Email**: chenguang.wang@stonybrook.edu
+**Email**: [chenguang.wang@stonybrook.edu](mailto:chenguang.wang@stonybrook.edu)
 
 Hello! I'm a Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/), mentored by [Prof. Susu Xu](http://susu-xu.com). I began my academic journey in computer science with a Bachelor of Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020, followed by a Master of Science from [Stevens Institute of Technology](https://www.stevens.edu/) in 2023. At Stony Brook, I'm exploring the application of Large Language Models in disaster response, focusing on integrating crowd-sensing data to improve crisis management.
 
