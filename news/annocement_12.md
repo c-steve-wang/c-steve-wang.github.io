@@ -1,2 +1,8 @@
 
-I have successfully passes Preliminary Examination, marking a significant milestone in their academic journey at Stony Brook Univeristywaqsfsdgvs dgdtg bdfs gfwedf 
+---
+layout: post
+date: 2024-09-16
+inline: true
+---
+
+I'm excited to join Johns Hopkins University as a Visiting Scholar.
