@@ -24,11 +24,11 @@ These experiences have shaped my interdisciplinary approach to leveraging **Larg
 **I am actively seeking postdoctoral opportunities or full-time AI Researcher/Engineer positions.**  
 
 My research interests broadly lie in Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**).  
-More specifically, my recent research mainly lie in **LLM Post-training** and **LLM Application**, including:: <br>
+More specifically, my recent research focuses on: <br>
 **(i) LLM applications in Disaster Management** ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424)); <br>
-**(ii) Data Synthesis** ([Mosaic-IT](https://arxiv.org/abs/2405.13326)); <br>
-**(iii) Controllability** ([RuleR](https://arxiv.org/abs/2406.15938)); <br>
-I am also interested in and now exploring **Multi-Modal LLMs (MLLMs)** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045)),**RAG**([FLARE](https://arxiv.org/abs/2502.17701)) **Agent** ([StreetDesinger](https://arxiv.org/abs/2507.00045)), and **RL**. 
+**(ii) Post-training for LLMs** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)); <br>
+**(iii) Multi-Modal LLMs (MLLMs)** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045)); <br>
+I am also interested in and now exploring **RAG**([FLARE](https://arxiv.org/abs/2502.17701)), **Agent** ([StreetDesinger](https://arxiv.org/abs/2507.00045)), and **RL**. 
 
 
 I am open to collaborations and opportunities to continue advancing AI for impactful real-world applications.
