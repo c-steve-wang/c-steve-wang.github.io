@@ -24,10 +24,10 @@ From 2024 to 2025, I was a **Graduate Visiting Scholar** at [Johns Hopkins Unive
 
 My research interests broadly lie in Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**).  
 More specifically, my recent research focuses on: <br>
-**(i) LLM applications in Disaster Management** ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424)); <br>
+**(i) LLM applications in Disaster Management** ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424), [FLARE](https://arxiv.org/abs/2502.17701)); <br>
 **(ii) Post-training for LLMs** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)); <br>
 **(iii) Multi-Modal LLMs (MLLMs)** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045)); <br>
-I am also interested in and now exploring **RAG**([FLARE](https://arxiv.org/abs/2502.17701)), **Agent** ([StreetDesinger](https://arxiv.org/abs/2507.00045)), and **RL**. 
+I am also interested in and now exploring **RAG**([FLARE](https://arxiv.org/abs/2502.17701)), **Agent** ([StreetDesinger](https://arxiv.org/abs/2509.05469)), and **RL**. 
 
 
 I am open to collaborations and opportunities to continue advancing AI for impactful real-world applications.
