@@ -19,9 +19,8 @@ I am a **Ph.D. candidate** at [Stony Brook University](https://www.stonybrook.ed
 I began my academic journey with a **Bachelor of Science in Computer Science** from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/) in 2020, followed by a **Master of Science in Computer Science** at [Stevens Institute of Technology](https://www.stevens.edu/) in 2023, where I worked with [Prof. Xiaojiang Du](https://www.stevens.edu/profile/xdu16).  
 From 2024 to 2025, I was a **Graduate Visiting Scholar** at [Johns Hopkins University](https://www.jhu.edu/).  
 
-These experiences have shaped my interdisciplinary approach to leveraging **Large Language Models (LLMs)** for disaster management and beyond.  
+**If you are looking for a highly motivated researcher with a strong background in LLMs, NLP, and AI, and a passion for advancing intelligent systems for real-world impact, I would be thrilled to have an opportunity to chat with you about postdoctoral or full-time AI Researcher opportunities!**  
 
-**I am actively seeking postdoctoral opportunities or full-time AI Researcher/Engineer positions.**  
 
 My research interests broadly lie in Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**).  
 More specifically, my recent research focuses on: <br>
