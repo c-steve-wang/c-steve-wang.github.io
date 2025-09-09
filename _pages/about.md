@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-
+subtitle: **Email**: chenguang[DOT]wang[AT]stonybrook[DOT]edu
 
 profile:
   align: right
@@ -14,12 +14,25 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-**Email**: chenguang[dot]wang[at]stonybrook[dot]edu
+
+I am a **Ph.D. candidate** at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Susu Xu](http://susu-xu.com).  
+I began my academic journey with a **Bachelor of Science in Computer Science** from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/) in 2020, followed by a **Master of Science in Computer Science** at [Stevens Institute of Technology](https://www.stevens.edu/) in 2023, where I worked with [Prof. Xiaojiang Du](https://www.stevens.edu/profile/xdu16).  
+From 2024 to 2025, I was a **Graduate Visiting Scholar** at [Johns Hopkins University](https://www.jhu.edu/).  
+
+These experiences have shaped my interdisciplinary approach to leveraging **Large Language Models (LLMs)** for disaster management and beyond.  
+
+**I am actively seeking postdoctoral opportunities or full-time AI Researcher/Engineer positions.**  
+
+My research interests broadly lie in Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**).  
+More specifically, my recent research mainly lie in **LLM Post-training** and **LLM Application**, including:: <br>
+**(i) LLM applications in Disaster Management** ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424)); <br>
+**(ii) Data Synthesis** ([Mosaic-IT](https://arxiv.org/abs/2405.13326)); <br>
+**(iii) Controllability** ([RuleR](https://arxiv.org/abs/2406.15938)); <br>
+I am also interested in and now exploring **Multi-Modal LLMs (MLLMs)** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045)),**RAG**([FLARE](https://arxiv.org/abs/2502.17701)) **Agent** ([StreetDesinger](https://arxiv.org/abs/2507.00045)), and **RL**. 
 
 
-Hello! I'm a Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/), mentored by [Prof. Susu Xu](http://susu-xu.com). I began my academic journey in computer science with a Bachelor of Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020, followed by a Master of Science from [Stevens Institute of Technology](https://www.stevens.edu/) in 2023. At Stony Brook, I'm exploring the application of Large Language Models in disaster response, focusing on integrating crowd-sensing data to improve crisis management.
+I am open to collaborations and opportunities to continue advancing AI for impactful real-world applications.
 
-My experiences as a Research Intern at the [Analytics and Information Security Lab](https://www.stevens.edu/aiseclab) under [Prof. Xiaojiang Du](https://www.stevens.edu/profile/xdu16) and as a Research Assistant at the [MoE Key Lab for Intelligent Networks & Network Security](https://nskeylab.xjtu.edu.cn/) under [Prof. Zhongmin Cai](https://gr.xjtu.edu.cn/web/zmcai/english-version) have been instrumental in shaping my approach to computer science. This diverse background has uniquely positioned me to contribute to the evolving field of AI in disaster response, bridging the gap between theoretical research and practical, real-world applications.
 
 
 
