@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: chenguang[DOT]wang[AT]stonybrook[DOT]edu
+subtitle: cswang[AT]vt[DOT]edu
 
 profile:
   align: right
