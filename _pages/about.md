@@ -15,23 +15,36 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a **Ph.D. candidate** at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Susu Xu](http://susu-xu.com).  
-I began my academic journey with a **Bachelor of Science in Computer Science** from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/) in 2020, followed by a **Master of Science in Computer Science** at [Stevens Institute of Technology](https://www.stevens.edu/) in 2023, where I worked with [Prof. Xiaojiang Du](https://www.stevens.edu/profile/xdu16).  
-From 2024 to 2025, I was a **Graduate Visiting Scholar** at [Johns Hopkins University](https://www.jhu.edu/).  
+I am currently a **Postdoctoral Fellow at [Virginia Tech](https://www.vt.edu/)**, working under the supervision of [Prof. Dawei Zhou](https://website.cs.vt.edu/people/faculty/dawei-zhou.html). My research aims to enhance the robustness and controllability of Large Language Models (LLMs) by developing effective post-training strategies, retrieval-augmented frameworks, and multi-modal reasoning techniques, particularly for real-world applications such as disaster response and decision support systems.
 
-**If you are looking for a highly motivated researcher with a strong background in LLMs, NLP, and AI, and a passion for advancing intelligent systems for real-world impact, I would be thrilled to have an opportunity to chat with you about postdoctoral or full-time AI Researcher opportunities!**  
+I received my Ph.D. Degree from [Stony Brook University](https://www.stonybrook.edu/), where I was advised by [Prof. Susu Xu](http://susu-xu.com).  
+Prior to that, I earned a Master of Science in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), where I worked with [Prof. Xiaojiang Du](https://www.stevens.edu/profile/xdu16), and a Bachelor of Science in Computer Science from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).  
+From 2024 to 2025, I was also a Graduate Visiting Scholar at [Johns Hopkins University](https://www.jhu.edu/).
 
+My research interests broadly lie in Machine Learning (ML), Natural Language Processing (NLP), and Large Language Models (LLMs).  
+More specifically, my recent research focuses on:  
 
-My research interests broadly lie in Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**).  
-More specifically, my recent research focuses on: <br>
-**(i) LLM applications in Disaster Management** ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424), [FLARE](https://arxiv.org/abs/2502.17701)); <br>
-**(ii) Post-training for LLMs** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)); <br>
-**(iii) Multi-Modal LLMs (MLLMs)** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045)); <br>
-I am also interested in and now exploring **RAG**([FLARE](https://arxiv.org/abs/2502.17701)), **Agent** ([StreetDesinger](https://arxiv.org/abs/2509.05469)), and **RL**. 
+- **(ii) Post-training and Alignment for LLMs**  
+  ([Mosaic-IT](https://arxiv.org/abs/2405.13326),  
+  [RuleR](https://arxiv.org/abs/2406.15938))
+  
+- **(i) LLM Applications in Disaster Management**  
+  ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424),  
+  [FLARE](https://arxiv.org/abs/2502.17701))  
 
+- **(iii) Multi-Modal Large Language Models (MLLMs)**  
+  ([TRIG](https://arxiv.org/abs/2504.04974),  
+  [CaughtCheating](https://arxiv.org/abs/2507.00045))  
 
-I am open to collaborations and opportunities to continue advancing AI for impactful real-world applications.
+I am also actively exploring **Retrieval-Augmented Generation (RAG)**  
+([FLARE](https://arxiv.org/abs/2502.17701)),  
+**LLM-based Agents**  
+([StreetDesinger](https://arxiv.org/abs/2509.05469)),  
+and **Reinforcement Learning (RL)**.
 
+---
+
+I am particularly interested in research collaborations and opportunities to advance impactful AI research. I welcome conversations around collaborative projects and broader research opportunities in both academic and industry settings.
 
 
 
