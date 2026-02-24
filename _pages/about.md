@@ -24,25 +24,13 @@ From 2024 to 2025, I was also a Graduate Visiting Scholar at [Johns Hopkins Univ
 My research interests broadly lie in Machine Learning (ML), Natural Language Processing (NLP), and Large Language Models (LLMs).  
 More specifically, my recent research focuses on:  
 
-- **(ii) Post-training and Alignment for LLMs**  
-  ([Mosaic-IT](https://arxiv.org/abs/2405.13326),  
-  [RuleR](https://arxiv.org/abs/2406.15938))
+- **(ii) Post-training and Alignment for LLMs** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938))
   
-- **(i) LLM Applications in Disaster Management**  
-  ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424),  
-  [FLARE](https://arxiv.org/abs/2502.17701))  
+- **(i) LLM Applications in Disaster Management** ([CrisisNLP](https://www.sciencedirect.com/science/article/pii/S2212420924004424), [FLARE](https://arxiv.org/abs/2502.17701))  
 
-- **(iii) Multi-Modal Large Language Models (MLLMs)**  
-  ([TRIG](https://arxiv.org/abs/2504.04974),  
-  [CaughtCheating](https://arxiv.org/abs/2507.00045))  
+- **(iii) Multi-Modal Large Language Models (MLLMs)** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045))  
 
-I am also actively exploring **Retrieval-Augmented Generation (RAG)**  
-([FLARE](https://arxiv.org/abs/2502.17701)),  
-**LLM-based Agents**  
-([StreetDesinger](https://arxiv.org/abs/2509.05469)),  
-and **Reinforcement Learning (RL)**.
-
----
+I am also actively exploring **Retrieval-Augmented Generation (RAG)** ([FLARE](https://arxiv.org/abs/2502.17701)), **LLM-based Agents** ([StreetDesinger](https://arxiv.org/abs/2509.05469)), and **Reinforcement Learning (RL)**.
 
 I am particularly interested in research collaborations and opportunities to advance impactful AI research. I welcome conversations around collaborative projects and broader research opportunities in both academic and industry settings.
 
