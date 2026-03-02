@@ -14,8 +14,8 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-I am currently a **Postdoctoral Fellow at [Virginia Tech](https://www.vt.edu/)**, working under the supervision of [Prof. Dawei Zhou](https://website.cs.vt.edu/people/faculty/dawei-zhou.html). My research aims to enhance the robustness and controllability of Large Language Models (LLMs) by developing effective post-training strategies, retrieval-augmented frameworks, and multi-modal reasoning techniques, particularly for real-world applications such as disaster response and decision support systems.
+working primarily under the supervision of Prof. Dawei Zhou, with co-advisors Prof. Lu Zhang and Prof. Le Wang.
+I am currently a **Postdoctoral Fellow at [Virginia Tech](https://www.vt.edu/)**, working primarily under the supervision of [Prof. Dawei Zhou](https://website.cs.vt.edu/people/faculty/dawei-zhou.html), with co-advisors [Prof. Lu Zhang](https://mlsoc.vt.edu/about/faculty-and-staff/lu-zhang.html) and [Prof. Le Wang](https://aaec.vt.edu/people/faculty/lwang.html). My research aims to enhance the robustness and controllability of Large Language Models (LLMs) by developing effective post-training strategies, retrieval-augmented frameworks, and multi-modal reasoning techniques, particularly for real-world applications such as disaster response and decision support systems.
 
 I received my Ph.D. Degree from [Stony Brook University](https://www.stonybrook.edu/), where I was advised by [Prof. Susu Xu](http://susu-xu.com). Prior to that, I earned a Master of Science in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), where I worked with [Prof. Xiaojiang Du](https://www.stevens.edu/profile/xdu16), and a Bachelor of Science in Computer Science from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). From 2024 to 2025, I was also a Graduate Visiting Scholar at [Johns Hopkins University](https://www.jhu.edu/).
 
