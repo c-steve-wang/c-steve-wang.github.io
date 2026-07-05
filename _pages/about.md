@@ -28,6 +28,4 @@ More specifically, my recent research focuses on:
 
 - **Multi-modal reasoning and trustworthy MLLM evaluation** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045))
 
-I am also actively exploring **Retrieval-Augmented Generation (RAG)**, **LLM-based agents**, and **Reinforcement Learning (RL)** as foundations for building reliable AI systems that can reason, evaluate, and act in high-impact domains.
-
-I am particularly interested in research collaborations and opportunities to advance impactful AI research. I welcome conversations around collaborative projects and broader research opportunities in both academic and industry settings.
+Across these directions, I aim to build AI systems that are not only capable, but also interpretable, controllable, and useful in settings where reliability matters. I welcome collaborations on trustworthy LLM systems, agentic workflows, and high-impact AI applications across academic and industry settings.
