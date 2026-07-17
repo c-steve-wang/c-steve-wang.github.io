@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-30
 inline: true
+title: Two new papers on interpretable assessment
+category: Publication
 ---
 
 **Two** new papers are now available! <br>

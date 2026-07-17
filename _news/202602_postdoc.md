@@ -2,6 +2,8 @@
 layout: post
 date: 2026-02-23
 inline: true
+title: Joined Virginia Tech as a Presidential Postdoctoral Fellow
+category: Career
 ---
 
 I have joined [Virginia Tech](https://www.vt.edu/) as a [Virginia Tech Presidential Postdoctoral Fellow](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships/current-fellows/wang-chenguang.html), working with [Prof. Dawei Zhou](https://website.cs.vt.edu/people/faculty/dawei-zhou.html). Looking forward to the next stage of my research journey.

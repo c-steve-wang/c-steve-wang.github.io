@@ -3,19 +3,24 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-bg-color: #f7faff;
+  --global-code-bg-color: #eef5ff;
+  --global-text-color: #172033;
+  --global-text-color-light: #64748b;
+  --global-theme-color: #2563eb;
+  --global-hover-color: #1d4ed8;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
+  --global-footer-bg-color: #0b1f3a;
+  --global-footer-text-color: #c6d4e8;
   --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0,0,0,.1);
+  --global-distill-app-color: #64748b;
+  --global-divider-color: rgba(37, 99, 235, 0.14);
   --global-card-bg-color: #{$white-color};
+  --global-navbar-bg-color: rgba(247, 250, 255, 0.9);
+  --global-surface-muted: #eef5ff;
+  --global-accent-color: #0891b2;
+  --global-collaboration-color: #b42318;
+  --global-shadow-color: rgba(30, 64, 175, 0.12);
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -48,19 +53,24 @@
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
-  --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-bg-color: #08111f;
+  --global-code-bg-color: #10233d;
+  --global-text-color: #e6eefb;
+  --global-text-color-light: #9fb0c8;
+  --global-theme-color: #60a5fa;
+  --global-hover-color: #7dd3fc;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
-  --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #424246;
-  --global-card-bg-color: #{$grey-900};
+  --global-footer-bg-color: #050b14;
+  --global-footer-text-color: #9fb0c8;
+  --global-footer-link-color: #e6eefb;
+  --global-distill-app-color: #9fb0c8;
+  --global-divider-color: rgba(148, 163, 184, 0.2);
+  --global-card-bg-color: #0d1b2e;
+  --global-navbar-bg-color: rgba(8, 17, 31, 0.9);
+  --global-surface-muted: #10233d;
+  --global-accent-color: #22d3ee;
+  --global-collaboration-color: #ff7b72;
+  --global-shadow-color: rgba(2, 8, 23, 0.42);
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;

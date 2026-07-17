@@ -11,7 +11,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # publications are available on the dedicated page
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -29,3 +29,5 @@ More specifically, my recent research focuses on:
 - **Multi-modal reasoning and trustworthy MLLM evaluation** ([TRIG](https://arxiv.org/abs/2504.04974), [CaughtCheating](https://arxiv.org/abs/2507.00045))
 
 Across these directions, I aim to build AI systems that are not only capable, but also interpretable, controllable, and useful in settings where reliability matters. I welcome collaborations on trustworthy LLM systems, agentic workflows, and high-impact AI applications across academic and industry settings.
+
+<p class="collaboration-callout"><strong>I'm looking forward to opportunities for collaboration across academia and industry.</strong></p>
