@@ -333,6 +333,42 @@ blockquote {
   }
 }
 
+.navbar.navbar-light .site-identity {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--global-theme-color);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+
+  .site-identity-icon {
+    display: block;
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    object-fit: contain;
+  }
+}
+
+html[data-theme='dark'] .site-identity-icon {
+  filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.95))
+          drop-shadow(0 0 3px rgba(255, 255, 255, 0.4));
+}
+
+@media (max-width: 767px) {
+  .navbar.navbar-light .site-identity {
+    font-size: 1.25rem;
+    gap: 0.35rem;
+    margin-right: 0.4rem;
+
+    .site-identity-icon { width: 34px; height: 34px; }
+  }
+}
+
 .navbar-toggler {
   .icon-bar {
     display: block;
@@ -512,10 +548,11 @@ blockquote {
 
   .post-title {
     color: var(--global-theme-color);
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2rem, 4.5vw, 3rem);
-    font-weight: 400;
-    letter-spacing: -0.035em;
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: clamp(2.6rem, 5vw, 3.5rem);
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: -0.02em;
     line-height: 1.15;
     margin-bottom: 0.65rem;
   }
