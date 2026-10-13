@@ -18,7 +18,7 @@ beyond_research: |
   I also love hiking 🥾, traveling ✈️, catching a musical 🎭, and exploring art in all its forms 🎨.
 
   Right now, I’m especially looking forward to <a class="gta-link" href="https://www.rockstargames.com/VI" target="_blank" rel="noopener noreferrer">GTA VI <img class="gta-logo" src="/assets/img/gta-vi-logo.png" width="30" height="30" alt="" loading="lazy"></a>.<br>
-  Above all, I cherish freedom and aspire to live life on my own terms 🕊️.
+  I love exploring new places 🌍, trying new things ✨, and following my own path 🕊️.
 beyond_photos:
   - image: golden-gate.jpg
     alt: Golden Gate Bridge at sunset
