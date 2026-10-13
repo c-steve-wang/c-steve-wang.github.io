@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-09-30
+date: 2026-09-10
 inline: true
 title: Three new papers on AI-based peer review
 category: Publication
