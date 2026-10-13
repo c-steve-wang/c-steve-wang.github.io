@@ -91,6 +91,7 @@
   <div class="periodical">
     {% if entry.category == "journal" %}
       <em>{{ entry.journal }}</em>{% if entry.volume %}, {{ entry.volume }}{% endif %}{% if entry.pages %}, {{ entry.pages }}{% endif %}{% if entry.year %} ({{ entry.year }}){% endif %}.
+      {% if entry.note %}<span class="publication-note">{{ entry.note }}</span>{% endif %}
     {% elsif entry.category == "conference" %}
       {% if entry.booktitle %}<em>{{ entry.booktitle }}</em>{% elsif entry.note %}<em>{{ entry.note }}</em>{% endif %}{% if entry.year %} ({{ entry.year }}){% endif %}.
       {% if entry.booktitle and entry.note %}<span class="publication-note">{{ entry.note }}</span>{% endif %}

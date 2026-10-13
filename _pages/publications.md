@@ -17,7 +17,7 @@ nav_order: 1
   <section class="publication-group" aria-labelledby="journal-publications">
     <header class="publication-group-heading">
       <div>
-        <span class="publication-group-kicker">Peer-reviewed</span>
+        <span class="publication-group-kicker">Published or accepted</span>
         <h2 id="journal-publications">Journal Articles</h2>
       </div>
       <span class="publication-count">{% bibliography_count -f {{ site.scholar.bibliography }} --query @*[category=journal] %}</span>
@@ -29,7 +29,7 @@ nav_order: 1
     <header class="publication-group-heading">
       <div>
         <span class="publication-group-kicker">Published or accepted</span>
-        <h2 id="conference-publications">Conference Papers</h2>
+        <h2 id="conference-publications">Conference &amp; Workshop Papers</h2>
       </div>
       <span class="publication-count">{% bibliography_count -f {{ site.scholar.bibliography }} --query @*[category=conference] %}</span>
     </header>
@@ -39,7 +39,7 @@ nav_order: 1
   <section class="publication-group" aria-labelledby="preprint-publications">
     <header class="publication-group-heading">
       <div>
-        <span class="publication-group-kicker">Under review or in preparation</span>
+        <span class="publication-group-kicker">Research manuscripts</span>
         <h2 id="preprint-publications">Preprints</h2>
       </div>
       <span class="publication-count">{% bibliography_count -f {{ site.scholar.bibliography }} --query @*[category=preprint] %}</span>
