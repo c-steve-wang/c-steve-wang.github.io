@@ -587,7 +587,8 @@ html[data-theme='dark'] .navbar.navbar-light .site-identity {
 }
 
 .post article > h2,
-.post .clearfix + h2 {
+.post .clearfix + h2,
+.post .beyond-research > h2 {
   display: flex;
   align-items: center;
   gap: 0.65rem;
@@ -605,24 +606,12 @@ html[data-theme='dark'] .navbar.navbar-light .site-identity {
   }
 }
 
+.post .beyond-research > h2 {
+  margin-top: 0;
+}
+
 .beyond-research {
-  margin-top: 2.75rem;
-
-  h2 {
-    margin-bottom: 1.5rem;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.75rem;
-    font-weight: 400;
-
-    &::after {
-      content: "";
-      display: block;
-      width: 2rem;
-      height: 2px;
-      margin-top: 0.85rem;
-      background-color: var(--global-theme-color);
-    }
-  }
+  margin-top: 48px;
 
   p:last-child { margin-bottom: 0; }
 
