@@ -354,11 +354,6 @@ blockquote {
   }
 }
 
-html[data-theme='dark'] .site-identity-icon {
-  filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.95))
-          drop-shadow(0 0 3px rgba(255, 255, 255, 0.4));
-}
-
 @media (max-width: 767px) {
   .navbar.navbar-light .site-identity {
     font-size: 1.25rem;
