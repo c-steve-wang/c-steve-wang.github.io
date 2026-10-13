@@ -13,6 +13,29 @@ news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # publications are available on the dedicated page
 social: true  # includes social icons in the profile header
+beyond_research: |
+  Outside of research, I enjoy working out 🏋️, cooking at home 👨‍🍳 (especially a good steak 🥩), and photography 📷.<br>
+  I also love hiking 🥾, traveling ✈️, catching a musical 🎭, and exploring art in all its forms 🎨.
+
+  Right now, I’m especially looking forward to <a class="gta-link" href="https://www.rockstargames.com/VI" target="_blank" rel="noopener noreferrer">GTA VI <img class="gta-logo" src="/assets/img/gta-vi-logo.png" width="30" height="30" alt="" loading="lazy"></a>.<br>
+  Above all, I cherish freedom and aspire to live life on my own terms 🕊️.
+beyond_photos:
+  - image: golden-gate.jpg
+    alt: Golden Gate Bridge at sunset
+  - image: horses.jpg
+    alt: Horses grazing beneath a pink evening sky
+  - image: waterfront.jpg
+    alt: Birds over the Manhattan waterfront
+  - image: coastal-cliffs.jpg
+    alt: Coastal cliffs in the evening light
+  - image: manhattan-bridge.jpg
+    alt: Manhattan Bridge framed by brick buildings
+  - image: sunset-bay.jpg
+    alt: Clouds over a quiet bay at sunset
+  - image: chapel.jpg
+    alt: An illuminated chapel among trees
+  - image: skyline.jpg
+    alt: New York skyline after sunset
 ---
 
 I am currently a **Presidential Postdoctoral Fellow at [Virginia Tech](https://www.vt.edu/)**, working primarily under the supervision of [Prof. Dawei Zhou](https://website.cs.vt.edu/people/faculty/dawei-zhou.html), with co-advisors [Prof. Lu Zhang](https://mlsoc.vt.edu/about/faculty-and-staff/lu-zhang.html) and [Prof. Le Wang](https://aaec.vt.edu/people/faculty/lwang.html). My research develops methods and agentic AI systems for reliable reasoning, evaluation, and decision-making with Large Language Models (LLMs), with an emphasis on understanding model behavior and improving interpretability, robustness, and controllability.

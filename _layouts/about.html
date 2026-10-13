@@ -72,6 +72,23 @@ layout: default
           {%- endif %} 
             -->
 
+          {% if page.beyond_research %}
+            <section class="beyond-research" aria-labelledby="beyond-research-title">
+              <h2 id="beyond-research-title">Beyond Research</h2>
+              {{ page.beyond_research | markdownify }}
+              {% if page.beyond_photos %}
+                <div class="beyond-gallery" role="group" aria-label="Travel and photography gallery">
+                  {% for photo in page.beyond_photos %}
+                    {% assign photo_path = photo.image | prepend: '/assets/img/beyond/' %}
+                    <a href="{{ photo_path | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="View photo: {{ photo.alt | escape }}">
+                      <img src="{{ photo_path | relative_url }}" alt="{{ photo.alt | escape }}" loading="lazy" decoding="async" width="600" height="400">
+                    </a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </section>
+          {% endif %}
+
           {% if page.social and site.contact_note != blank %}
             <div class="social"><div class="contact-note">{{ site.contact_note }}</div></div>
           {% endif %}
