@@ -17,7 +17,7 @@ footer_text: >
 keywords: Large Language Model
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: sw-orbital-monogram.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://c-steve-wang.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: c-steve-wang
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: StevW9811 # X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: chenguang-wang-27461b230
 telegram_username: # your Telegram user name
