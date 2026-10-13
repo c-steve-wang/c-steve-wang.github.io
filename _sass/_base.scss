@@ -352,6 +352,13 @@ blockquote {
     flex-shrink: 0;
     object-fit: contain;
   }
+
+  .site-identity-icon-dark { display: none; }
+}
+
+html[data-theme='dark'] .navbar.navbar-light .site-identity {
+  .site-identity-icon-light { display: none; }
+  .site-identity-icon-dark { display: block; }
 }
 
 @media (max-width: 767px) {
